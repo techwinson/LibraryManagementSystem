@@ -10,7 +10,7 @@ Step 4: Create a new database with a name as "library"
 Step 5: Click on import and in "File to import" click choose file -> Click the extracted file -> Online course registartion Using PHP -> SQL File -> onlinecourse.sql
 Step 6: Upload "onlinecourse.sql" file  and Click "improt" button at the bottom of the page
 
-*******************************************************************DataBase Created Successfully*****************************************************************
+*DataBase Created Successfully*
 
 Step 7  : Goto "Online course registartion Using PHP" and copy "libray" file
 Step 8  : Goto "C:\xampp\htdocs" and paste the copied file
