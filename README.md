@@ -26,7 +26,7 @@ Step 9  : Now, open Browser and run http://localhost/library
 Step 10 : Now, you can use more efficiently
 
 *******************************************************************************************************************************************************************
-#Additional Details
+# Additional Details
 
 Login Details for admin:
 Username: admin
