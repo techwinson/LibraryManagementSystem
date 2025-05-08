@@ -39,6 +39,19 @@ Reg No.: 10806121
 Password: Test@123
 Student Pincode for enroll Course Student: 822894
 *******************************************************************************************************************************************************************
+
+# Contributing
+We welcome contributions! Please follow these steps:
+
+i)  Fork the repository.
+
+ii) Create a feature branch.
+
+iii)Commit your changes.
+
+iv) Push the branch and create a pull request.
+
+
 Contact
 For questions or feedback, feel free to reach out:
 
