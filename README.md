@@ -44,6 +44,6 @@ For questions or feedback, feel free to reach out:
 
 Author: Techwinson
 Email: techwinson2025@gmail.com
-Project Repository: e-shopping
+Project Repository: Library Management System
 
 Feel free to edit the placeholders like `techwinson2025@gmail.com` or add any specific project details! Let me know if you need further assistance.
