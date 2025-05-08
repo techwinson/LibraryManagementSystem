@@ -39,4 +39,11 @@ Reg No.: 10806121
 Password: Test@123
 Student Pincode for enroll Course Student: 822894
 *******************************************************************************************************************************************************************
-For further details full request
+Contact
+For questions or feedback, feel free to reach out:
+
+Author: Techwinson
+Email: techwinson2025@gmail.com
+Project Repository: e-shopping
+
+Feel free to edit the placeholders like `techwinson2025@gmail.com` or add any specific project details! Let me know if you need further assistance.
